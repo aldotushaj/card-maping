@@ -1,0 +1,34 @@
+/* /src/styles/Card.css */
+.card {
+    display: flex;
+    gap: 20px;
+    width: 300px;
+    padding: 15px;
+    text-align: center;
+    transition: transform 0.3s ease;
+  }
+  
+  .card-icon {
+    height:fit-content;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 50%;
+    font-size: 3.5em;
+    margin-bottom: 10px;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  h3 {
+    font-size: 1.2em;
+    margin: 10px 0;
+  }
+  
+  p {
+    font-size: 0.9em;
+    color: #555;
+  }
+
+  
