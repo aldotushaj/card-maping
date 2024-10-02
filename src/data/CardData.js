@@ -47,6 +47,6 @@ export const CardData = [
     author: 'Kevin Joe',
     content: 'Added Settings for Auto Start Added Update Notification...',
     badgeText: 'Improvement',
-    badgeColor: 'purple'  // Color passed as a prop
+    badgeColor: '#cc03ab'  // Color passed as a prop
   }
   ];
