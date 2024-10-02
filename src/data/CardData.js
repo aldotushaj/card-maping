@@ -20,9 +20,9 @@ export const CardData = [
     version: '3.1.0',
     date: '20/05/2015',
     author: 'Kevin Joe',
-    content: 'Added Settings for Auto Start Added Update Notification...',
+    content: 'Added Settings for Auto Start Added Update Notification... ',
     badgeText: 'Improvement',
-    badgeColor: 'purple'  // Color passed as a prop
+    badgeColor: '#cc03ab'  // Color passed as a prop
   },
   {
     version: '3.3.0',
